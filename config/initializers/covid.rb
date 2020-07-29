@@ -8,6 +8,7 @@
 # 5) Repeat
 #
 COVID_REPOS = %W{
+  goodhere/goodhere
   nextstrain/ncov
   jcl5m1/ventilator
   CSSEGISandData/COVID-19
